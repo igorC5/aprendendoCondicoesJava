@@ -10,7 +10,6 @@ public class Main {
         *  String1.equals(String2) Compara se Texto é igual
         *
         * */
-
         int idade = 20;
         String nome = "Igor";
 
