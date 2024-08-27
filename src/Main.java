@@ -13,6 +13,8 @@ public class Main {
         int idade = 20;
         String nome = "Igor";
 
+        String real = "teste";
+
         if (idade >= 21){
             System.out.println("Maior que 21 anos");
         }else{
