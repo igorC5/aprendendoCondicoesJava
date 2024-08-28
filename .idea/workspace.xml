@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2c5ff59-a79c-4f33-8499-aac01c4ef0d1" name="Changes" comment="atualizacao projeto java">
+      <change afterPath="$PROJECT_DIR$/src/Atividade11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Resolvidos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Atividade10.executor": "Run",
+    "Application.Atividade11.executor": "Run",
+    "Application.Atividade7.executor": "Run",
+    "Application.Atividade9.executor": "Run",
     "Application.ExemploCondicao2.executor": "Run",
     "Application.Resolvidos.executor": "Run",
     "Application.ScannerEx.executor": "Run",
@@ -47,6 +51,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -75,7 +82,7 @@
       <workItem from="1724720231276" duration="2705000" />
       <workItem from="1724881121164" duration="604000" />
       <workItem from="1724881733912" duration="582000" />
-      <workItem from="1724882339750" duration="2696000" />
+      <workItem from="1724882339750" duration="6369000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do Projeto Java.">
       <option name="closed" value="true" />
@@ -133,7 +140,47 @@
       <option name="project" value="LOCAL" />
       <updated>1724722948413</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="atualizacao projeto java">
+      <option name="closed" value="true" />
+      <created>1724885478525</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724885478525</updated>
+    </task>
+    <task id="LOCAL-00009" summary="atualizacao projeto java">
+      <option name="closed" value="true" />
+      <created>1724885823067</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724885823067</updated>
+    </task>
+    <task id="LOCAL-00010" summary="atualizacao projeto java">
+      <option name="closed" value="true" />
+      <created>1724885930149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724885930149</updated>
+    </task>
+    <task id="LOCAL-00011" summary="atualizacao projeto java">
+      <option name="closed" value="true" />
+      <created>1724886378573</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724886378573</updated>
+    </task>
+    <task id="LOCAL-00012" summary="atualizacao projeto java">
+      <option name="closed" value="true" />
+      <created>1724887742990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724887742990</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
