@@ -28,6 +28,7 @@ public class Atividade5 {
             default:
                 System.out.println("ERRO / O DIA ESTÁ ERRADO!");
                 break;
+
         }
     }
 }
