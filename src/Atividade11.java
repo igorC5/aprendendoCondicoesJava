@@ -10,6 +10,7 @@ public class Atividade11 {
         return (num * taxa);
     }
 
+
     public static void main(String[] args) {
 
         Scanner input =  new Scanner(System.in);

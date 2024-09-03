@@ -37,6 +37,5 @@ public class Atividade10 {
         System.out.println("Valor descontado: " + totalCompra * desconto);
         System.out.println("Valor final da compra: " + valorFinal);
 
-
     }
 }

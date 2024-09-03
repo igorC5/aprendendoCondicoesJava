@@ -15,5 +15,6 @@ public class Atividade9 {
         } else if (num == 0) {
             System.out.println("Igual a 0");
         }
+
     }
 }
