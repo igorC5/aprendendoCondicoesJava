@@ -7,5 +7,6 @@ public class Atividade3 {
         }else{
             System.out.println("É impar");
         }
+
     }
 }

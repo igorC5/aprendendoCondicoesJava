@@ -1,7 +1,5 @@
 public class Atividade1 {
     public static void main(String[] args) {
-        //ATIVIDADE 1
-        System.out.println("atividade 1");
 
         int idade = 20;
 

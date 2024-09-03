@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2c5ff59-a79c-4f33-8499-aac01c4ef0d1" name="Changes" comment="atualizacao projeto java">
-      <change afterPath="$PROJECT_DIR$/src/Atividade11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Explicar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Resolvidos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -33,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Atividade10.executor": "Run",
-    "Application.Atividade11.executor": "Run",
-    "Application.Atividade7.executor": "Run",
-    "Application.Atividade9.executor": "Run",
-    "Application.ExemploCondicao2.executor": "Run",
-    "Application.Resolvidos.executor": "Run",
-    "Application.ScannerEx.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/labtools/t",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Atividade10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploCondicao2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Resolvidos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/labtools/t&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +82,11 @@
       <workItem from="1724720231276" duration="2705000" />
       <workItem from="1724881121164" duration="604000" />
       <workItem from="1724881733912" duration="582000" />
-      <workItem from="1724882339750" duration="6369000" />
+      <workItem from="1724882339750" duration="6406000" />
+      <workItem from="1724976195398" duration="1263000" />
+      <workItem from="1725320867079" duration="810000" />
+      <workItem from="1725321705850" duration="89000" />
+      <workItem from="1725321835799" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do Projeto Java.">
       <option name="closed" value="true" />
@@ -180,18 +184,53 @@
       <option name="project" value="LOCAL" />
       <updated>1724887742990</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="atualizacao projeto java">
+      <option name="closed" value="true" />
+      <created>1724888782892</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724888782892</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
